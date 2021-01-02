@@ -1,0 +1,67 @@
+body{
+    background: black;
+padding-top: 25px;
+}
+.box{
+display: flex;
+flex-direction: column;
+align-items: ceter;
+width: 50%;
+position: relative;
+}
+
+.button1{
+color: white;
+background: #d40100;
+margin-top: 15px;
+}
+.elaija{
+margin-top: 10px;
+}
+h3{
+color: #d40100;
+position: absolute;
+bottom: -25px;
+right: 0px;
+}
+.rotateimg180 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+position: absolute;
+}
+.outer{
+display: flex;
+justify-content: center;
+}
+.down{
+width: 150px;
+position: fixed;
+right: 25px;
+bottom: 0px;
+}
+
+@media only screen and (max-width: 600px) {
+h3{
+bottom: 0px;
+}
+}
+
+@media only screen and (max-width: 600px) {
+body{
+padding-top: 0px;
+}
+.box{
+width: 100%;
+}
+.button1{
+margin-top: 0px;
+}
+h3{
+right: 5px;
+}
+}
+
+

@@ -1,0 +1,39 @@
+saitis gasaxsnelad gaushvi indeqsi marjvena knopkit - open with chrome
+kodis sanaxavad daachire starts anu windowss, shemdeg visual studio code da file>>open folder>>desktop>>java
+
+1. siesesshi(css) shevcvalot saitis fonis feri.
+visual studio codeshi java tu gaxsnili gaqvs daachire mystyle-s da shecvale shemdegi teqsti
+
+body{
+    background: black;
+}
+
+amit >>
+body{
+    background: white;
+}
+
+ar dagaviwkdes kodis daseiveba control esit (ctrl s) da saitis gadarefresheba(kontroli cota gichedavs)
+
+mwvane foni:
+body{
+    background: green;
+}
+
+principi gasagebia:
+body{
+    background: sasurveli-feri;
+}
+
+ferebi araa aucilebeli saxelit iyos warmodgenili. 
+shegvidzlia mivutitot konkretuli feris kodi magalitad #232529 RAC ARIS NACRISFERI
+
+body{
+    background: #232529;
+}
+
+tu gchirdeba konkretuli feris tonebi, 
+dagugle magalitad shades of grey in hex codes 
+an shades of blue in hex codes da sasurveli feri aarchie, wamoige kodi da chasvi
+
+tu daamugame ferebit manipulireba aqve dawere yes 2jer am teqstis qvemot.
